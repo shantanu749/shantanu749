@@ -18,7 +18,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&color=00F5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;SOC+Analyst+Aspiring;Full+Stack+Developer)]()
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)]()
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shantanu749&theme=tokyo-night)]()
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)]()
+[![Trophy](https://github-profile-trophy.vercel.app/?username=shantanu749&theme=onedark)]()
 
