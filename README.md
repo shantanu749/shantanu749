@@ -10,6 +10,22 @@
 
 # Hi, I'm Shantanu 👋
 
+# 👋 About Me
+
+I'm **Shantanu Roy**, a BCA student with a strong interest in **cybersecurity**, **secure software development**, and **building impactful digital products**.
+
+My current focus is on developing practical skills in **SOC operations, network security, OSINT, and cloud security**, while also creating real-world applications that solve meaningful problems.
+
+I'm the **Technical Lead at MySkillSathi**, where I'm building a platform that connects contractors, skilled workers, and customers through technology.
+
+## 🎯 Current Focus
+
+- 🛡️ Cybersecurity & SOC
+- 💻 Full Stack Development
+- ☁️ Cloud & Secure Applications
+- 🚀 Building MySkillSathi
+- 📚 Open Source & Continuous Learning
+
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
