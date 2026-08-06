@@ -10,7 +10,7 @@
 
 # Hi, I'm Shantanu 👋
 
-# 👋 About Me
+# About Me
 
 I'm **Shantanu Roy**, a BCA student with a strong interest in **cybersecurity**, **secure software development**, and **building impactful digital products**.
 
