@@ -22,3 +22,5 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=shantanu749&theme=onedark)]()
 
+[![Credly](https://img.shields.io/badge/Credly-View%20My%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/shantanu-roy.53e5c153)
+
