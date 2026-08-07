@@ -1,7 +1,4 @@
 <img width="1792" height="592" alt="banner" src="https://github.com/user-attachments/assets/65d9e970-7ee2-4c39-b5b1-a7cc50abb2fc" />
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
-</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=729&lines=Cybersecurity+Student+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=729&lines=Technical+lead+MySkillSathi)](https://git.io/typing-svg)
