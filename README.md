@@ -36,11 +36,13 @@ I'm the **Technical Lead at MySkillSathi**, where I'm building a platform that c
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shantanu749&show_icons=true&theme=tokyonight)
+## 📊 GitHub Analytics
+
+![Shantanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shantanu749&show_icons=true&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shantanu749&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu749&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu749&layout=compact&theme=github_dark&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=shantanu749&style=for-the-badge)
 
