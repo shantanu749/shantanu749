@@ -18,13 +18,17 @@ My current focus is on developing practical skills in **SOC operations, network 
 
 I'm the **Technical Lead at MySkillSathi**, where I'm building a platform that connects contractors, skilled workers, and customers through technology.
 
-## 🎯 Current Focus
+## 🛡️ Cybersecurity Focus
 
-- 🛡️ Cybersecurity & SOC
-- 💻 Full Stack Development
-- ☁️ Cloud & Secure Applications
-- 🚀 Building MySkillSathi
-- 📚 Open Source & Continuous Learning
+> Learning by building, testing, and documenting.
+
+- 🔐 Network Security
+- 🛡️ SOC Operations
+- 🔎 OSINT & Digital Investigations
+- 🐧 Linux Security
+- 🧪 Web Application Security
+- ☁️ Cloud Security
+- 🔬 Digital Forensics
 
 ## 💻 Tech Stack
 
