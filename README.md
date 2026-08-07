@@ -49,7 +49,7 @@ I'm the **Technical Lead at MySkillSathi**, where I'm building a platform that c
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shantanu749&theme=tokyo-night)]()
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=shantanu749&theme=onedark)]()
+[![](https://github-profile-trophy.vercel.app/?username=shantanu749&theme=onedark)]()
 
 ## 🌐 Connect With Me
 
