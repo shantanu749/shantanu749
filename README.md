@@ -43,7 +43,7 @@ I'm the **Technical Lead at MySkillSathi**, where I'm building a platform that c
 
 ![](https://komarev.com/ghpvc/?username=shantanu749&style=for-the-badge)
 
-[![My Skills](https://skillicons.dev/icons?i=python,react,linux,docker,git,github,supabase,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,react,linux,kali,docker,git,github,supabase,vscode)](https://skillicons.dev)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&color=00F5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;SOC+Analyst+Aspiring;Full+Stack+Developer)]()
 
