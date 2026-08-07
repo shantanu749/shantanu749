@@ -35,11 +35,11 @@ I'm the **Technical Lead at MySkillSathi**, where I'm building a platform that c
 
 ## 📊 GitHub Analytics
 
-![Shantanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shantanu749&show_icons=true&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=shantanu749&show_icons=true&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shantanu749&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu749&layout=compact&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu749&layout=compact&theme=github_dark&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=shantanu749&style=for-the-badge)
 
