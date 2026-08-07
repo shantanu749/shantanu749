@@ -67,6 +67,10 @@ I'm the **Technical Lead at MySkillSathi**, where I'm building a platform that c
 <img src="https://img.shields.io/badge/Credly-View%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
 </a>
 
+<a href="https://my-portfolio-neon-nine-57.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
 </p>
 
 
