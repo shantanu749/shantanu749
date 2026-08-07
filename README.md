@@ -51,5 +51,22 @@ I'm the **Technical Lead at MySkillSathi**, where I'm building a platform that c
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=shantanu749&theme=onedark)]()
 
-[![Credly](https://img.shields.io/badge/Credly-View%20My%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/shantanu-roy.53e5c153)
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shantanu-roy-b8a84b3a2?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:shantanuroy749@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.credly.com/users/shantanu-roy.53e5c153">
+<img src="https://img.shields.io/badge/Credly-View%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
+</a>
+
+</p>
+
 
